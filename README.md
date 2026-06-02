@@ -138,7 +138,7 @@ Potential extensions include:
 
 ## Author
 
-Tsukasa Miyaji
+Tsukasa Miyaji et al.
 
 University of Southern California (USC)
 
