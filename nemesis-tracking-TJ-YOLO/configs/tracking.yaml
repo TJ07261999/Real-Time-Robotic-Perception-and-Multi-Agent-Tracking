@@ -1,0 +1,11 @@
+bytetrack:
+  track_activation_threshold: 0.35   # raise if false positives
+  lost_track_buffer: 30              # frames to keep lost ID
+  minimum_matching_threshold: 0.7
+  mot20: false
+
+ocsort:
+  det_thresh: 0.30
+  max_age: 30
+  min_hits: 3
+  iou_threshold: 0.30
